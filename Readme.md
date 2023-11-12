@@ -3,3 +3,7 @@
 # Project Overview
 
 [Project-Overview](https://github.com/cu-ecen-aeld/final-project-VisweshBaskaran/wiki/Project-Overview)
+
+# Project Schedule
+
+[Project-Schedule](https://github.com/users/VisweshBaskaran/projects/1)
